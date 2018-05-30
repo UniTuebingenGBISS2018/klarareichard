@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/assignment2.iml" filepath="$PROJECT_DIR$/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HMM Generator/HMM Generator.iml" filepath="$PROJECT_DIR$/HMM Generator/HMM Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/klarareichard.iml" filepath="$PROJECT_DIR$/klarareichard.iml" />
     </modules>
   </component>
 </project>
